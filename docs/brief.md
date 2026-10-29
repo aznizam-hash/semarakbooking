@@ -56,7 +56,7 @@ Guru tidak perlu akaun. Peranan dikawal melalui akses kepada fail, bukan dalam a
 - Siapa cepat dapat. Slot kosong terus disahkan, tiada kelulusan pentadbir.
 - Tempahan pada hari yang sama dibenarkan selagi slot kosong.
 - Tarikh yang sudah lepas ditolak (status `Masa tidak sah`).
-- Sabtu dan Ahad dibenarkan.
+- Sabtu, Ahad, cuti umum, dan cuti sekolah dibenarkan. Sistem tidak semak hari cuti.
 - Masa dipilih dari dropdown slot 30 minit:
   - Mula: 07:30 hingga 16:30
   - Tamat: 08:00 hingga 17:00
